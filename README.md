@@ -4,6 +4,6 @@ QGIS-basierte Veränderungsanalyse des werksbedingten Flächenverbrauchs der Tes
 Dieses Repository enthält die Forschungsdaten, das QGIS-Projekt und die Ergebnisse der klassifikatorischen Veränderungsanalyse im Raum Grünheide.
 Das Projekt entstand im Rahmen der Posterpräsentation für das Modul Fernerkundung (B.Sc. Geoinformatik, Universität Münster).
 
-Autor: Lukas Hölscher
+Autor: Lukas Hölscher, 
 Sommersemester 2026
 
